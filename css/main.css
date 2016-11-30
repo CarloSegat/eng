@@ -1,0 +1,13 @@
+@font-face {
+    font-family: school;
+    src: url("../font/AlexBrush-Regular.eot");
+    src: url("../fonts/AlexBrush-Regularr.eot#iefix") format("embedded-opentype"),
+        url("../fonts/AlexBrush-Regular.woff") format("woff"),
+        url("../font/AlexBrush-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: school, serif;
+}
